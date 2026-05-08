@@ -22,10 +22,8 @@
 
 ## 服務介紹｜Services
 
-暖流人心的服務內容、活動資訊、最新動態，請至暖流臉書追蹤：
-
-→ **暖流臉書**：[facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
-→ **官方網站**：[warmflowpsy.tw](https://warmflowpsy.tw)
+→ **完整服務介紹**：[warmflowpsy.tw/services](https://warmflowpsy.tw/services/)
+→ **暖流臉書**（活動 / 動態）：[facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
 → **預約諮詢**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
 ---
