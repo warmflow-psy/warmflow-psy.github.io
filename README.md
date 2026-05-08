@@ -2,7 +2,7 @@
 
 > 台灣新竹的心理服務團隊，結合臨床心理專業與 AI 治理整合，提供溫柔、持續、耐心的心理服務。
 
-[![Facebook](https://img.shields.io/badge/Facebook-暖流人心-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/warmflowpsy)
+[![Facebook](https://img.shields.io/badge/Facebook-暖流人心-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/warmflow.psycenter/)
 [![Website](https://img.shields.io/badge/Website-warmflowpsy.tw-c0796a.svg)](https://warmflowpsy.tw)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-warmflow--psy.github.io-blue.svg)](https://warmflow-psy.github.io)
 
@@ -10,29 +10,21 @@
 
 ## 關於暖流人心｜About Warmflow
 
-**我們相信，每一個人都值得被好好接住。暖流從竹北出發，帶著心理學的溫度，陪伴個人、家庭與職場，在最需要的時刻提供專業支持。**
-
 → **完整介紹**：[warmflowpsy.tw/about](https://warmflowpsy.tw/about/)
 
-**核心精神**：以「專業、溫柔、持續、耐心」為核心價值。
+**核心精神**：以「溫柔、持續、耐心」為底氣 — 不催、不逼、不評斷。
 
 ---
 
 ## 服務介紹｜Services
 
-暖流人心以臨床心理學與諮商心理學雙軌專業為基礎，
-提供從兒童到成人、從個人到家庭、從職場到生活的全方位心理服務。
-每一項服務，都由具備相關專長的心理師親自執行。
-
 → **完整服務介紹**：[warmflowpsy.tw/services](https://warmflowpsy.tw/services/)
+→ **暖流臉書**（活動 / 動態）：[facebook.com/warmflow.psycenter](https://www.facebook.com/warmflow.psycenter/)
+→ **預約諮詢**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
 ---
 
 ## 預約諮詢｜Booking
-
-感謝您願意踏出這一步。
-預約系統建置中，近期開放。
-立即與我們聯繫，由派案小編為您服務。
 
 **請至官網表單預約**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
@@ -63,7 +55,7 @@
 暖流人心將 AI 治理層整合進日常運作，協助臨床工作之外的內容、品質、流程治理。整合精神是「AI 是工具，臨床判斷是主場」。
 
 ### 內部運作架構（簡述）
-- **發展部**：對外整合、風險控管、跨領域決策
+- **戰略部**：對外整合、風險控管、跨領域決策
 - **內容部**：心理普及內容、跨媒體素材、視覺資產
 - **守護部**：SEO 經營、品質審核、法規對齊
 - **整合運作**：四方合議場（三部 + 創辦人）
@@ -92,7 +84,7 @@
 
 ---
 
-## 行業倫理聲明｜Ethics Statement
+## 業倫理聲明｜Ethics Statement
 
 本 GitHub Pages 嚴格遵守台灣心理師業倫理規範與相關法規：
 
@@ -147,7 +139,7 @@
 | 項 | 資訊 |
 |---|------|
 | 官方網站 | [warmflowpsy.tw](https://warmflowpsy.tw) |
-| 暖流臉書 | [facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy) |
+| 暖流臉書 | [facebook.com/warmflow.psycenter](https://www.facebook.com/warmflow.psycenter/) |
 | 預約諮詢 | [warmflowpsy.tw/booking](https://warmflowpsy.tw/booking) |
 | GitHub Pages | [warmflow-psy.github.io](https://warmflow-psy.github.io) |
 | 心力儀（CareRadar）| [xinliyi.warmflowpsy.tw](https://xinliyi.warmflowpsy.tw) ⚠️ 自我覺察工具，非醫療診斷工具 |
@@ -169,7 +161,7 @@
 
 ---
 
-> 暖流人心｜以專業、溫柔、持續、耐心為核心價值。
+> 暖流人心｜以溫柔、持續、耐心為底氣，不催、不逼、不評斷。
 > Warmflow｜With gentleness, persistence, and patience as foundation — without pressure, without forcing, without judgment.
 
 <!-- 所有外部連結開新分頁（Harbor 5/08 17:52 指令）-->
