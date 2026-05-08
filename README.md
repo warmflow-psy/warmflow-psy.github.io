@@ -20,13 +20,19 @@
 
 ## 服務介紹｜Services
 
+暖流人心以臨床心理學與諮商心理學雙軌專業為基礎，
+提供從兒童到成人、從個人到家庭、從職場到生活的全方位心理服務。
+每一項服務，都由具備相關專長的心理師親自執行。
+
 → **完整服務介紹**：[warmflowpsy.tw/services](https://warmflowpsy.tw/services/)
-→ **暖流臉書**（活動 / 動態）：[facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
-→ **預約諮詢**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
 ---
 
 ## 預約諮詢｜Booking
+
+感謝您願意踏出這一步。
+預約系統建置中，近期開放。
+立即與我們聯繫，由派案小編為您服務。
 
 **請至官網表單預約**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
