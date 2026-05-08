@@ -18,16 +18,12 @@ With gentleness, persistence, and patience as foundation — without pressure, w
 
 ## 服務範圍
 
-> 以下諮商與治療業務由暖流人心特約心理師執行，依心理師法 §13/14 業務範圍。
+暖流人心關注成人、兒童青少年、家庭、職場與社區的心理健康。
 
-- 個別心理諮商（成人、兒童青少年）
-- 團體諮商
-- 企業 EAP 員工協助方案
-- 社區心理健康講座
-- 兒童青少年發展支持
-- 家庭關係與親職教育
-- 職場壓力與情緒調節
-- 重大失落與哀傷支持
+服務內容、活動資訊、最新動態請至暖流臉書追蹤：
+- **暖流臉書**：https://www.facebook.com/warmflowpsy
+- **官方網站**：https://warmflowpsy.tw
+- **預約諮詢**：https://warmflowpsy.tw/booking
 
 ## v4 治理層｜AI × 心理服務的整合實踐
 
@@ -75,7 +71,7 @@ GitHub Pages 不接受諮詢申請。
 - [README.md](https://warmflow-psy.github.io/README.md)：完整機構介紹
 - [LICENSE](https://warmflow-psy.github.io/LICENSE)：CC BY-NC-ND 4.0 授權條款
 - 心理普及文章：陸續整理中（連結至 .tw 主站正文）
-- 心理諮商詞彙表中英對照：陸續整理中
+- 心理服務詞彙表中英對照：陸續整理中
 - 台灣心理健康公益資源整理：陸續整理中
 
 ## License

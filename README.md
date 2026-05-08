@@ -10,37 +10,23 @@
 
 ## 關於暖流人心｜About Warmflow
 
-暖流人心（Warmflow Psychology Center）是台灣新竹的心理服務團隊，由臨床心理師劉子維創立。我們提供專業的心理諮商、團體治療、企業 EAP（員工協助方案）、社區心理講座等服務。
+暖流人心（Warmflow Psychology Center）是台灣新竹的心理服務團隊，由臨床心理師劉子維創立。我們關注成人、兒童青少年、家庭、職場與社區的心理健康。
 
 **核心精神**：以「溫柔、持續、耐心」為底氣 — 不催、不逼、不評斷。
 
-**服務面向**（以下諮商與治療業務由暖流人心特約心理師執行，依心理師法 §13/14 業務範圍）：
-- 個別心理諮商（成人、兒童青少年）
-- 團體諮商
-- 企業 EAP 員工協助方案
-- 社區心理健康講座
-- 兒童青少年發展支持
-- 家庭關係與親職教育
-- 職場壓力與情緒調節
-- 重大失落與哀傷支持
-
-**官方網站**：[warmflowpsy.tw](https://warmflowpsy.tw)
+**服務內容**：
+→ 詳見暖流臉書 [facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
+→ 官方網站 [warmflowpsy.tw](https://warmflowpsy.tw)
 
 ---
 
-## 主要服務 Services
+## 服務介紹｜Services
 
-> 以下心理諮商與治療業務由暖流人心特約心理師執行，依心理師法 §13/14 業務範圍。
+暖流人心的服務內容、活動資訊、最新動態，請至暖流臉書追蹤：
 
-| 服務 | 對象 | 說明 |
-|------|------|------|
-| 個別心理諮商 | 成人 / 青少年 | 一對一深度對話，依需求安排頻率 |
-| 兒童青少年諮商 | 兒童青少年 | 結合遊戲、認知行為等多元取向 |
-| 團體諮商 | 主題式 | 焦慮、親職、職場壓力等主題團體 |
-| 企業 EAP | 企業組織 | 員工協助方案、講座、諮詢服務 |
-| 社區講座 | 公共 | 校園、社區、機構心理普及 |
-
-→ 完整服務介紹：[warmflowpsy.tw/consultation](https://warmflowpsy.tw/consultation)
+→ **暖流臉書**：[facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
+→ **官方網站**：[warmflowpsy.tw](https://warmflowpsy.tw)
+→ **預約諮詢**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
 
 ---
 
@@ -64,7 +50,7 @@
 
 暖流人心持續產出心理普及文章，涵蓋焦慮、親職、職場、重大失落、AI 與心理健康等主題。
 
-→ 完整文章庫：[warmflowpsy.tw/health-articles](https://warmflowpsy.tw/health-articles)（200+ 篇）
+→ 完整文章庫：[warmflowpsy.tw/blog](https://warmflowpsy.tw/blog/)（200+ 篇）
 
 本 GitHub repo 將陸續整理可開源的心理普及文章 markdown 版本（純連結 + 摘要，正文連回 .tw 主站避免重複內容）。
 
