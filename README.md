@@ -2,7 +2,7 @@
 
 > 台灣新竹的心理服務團隊，結合臨床心理專業與 AI 治理整合，提供溫柔、持續、耐心的心理服務。
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](./LICENSE)
+[![Facebook](https://img.shields.io/badge/Facebook-暖流人心-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/warmflowpsy)
 [![Website](https://img.shields.io/badge/Website-warmflowpsy.tw-c0796a.svg)](https://warmflowpsy.tw)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-warmflow--psy.github.io-blue.svg)](https://warmflow-psy.github.io)
 
