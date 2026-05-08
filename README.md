@@ -10,13 +10,9 @@
 
 ## 關於暖流人心｜About Warmflow
 
-暖流人心（Warmflow Psychology Center）是台灣新竹的心理服務團隊，由臨床心理師劉子維創立。我們關注成人、兒童青少年、家庭、職場與社區的心理健康。
+→ **完整介紹**：[warmflowpsy.tw/about](https://warmflowpsy.tw/about/)
 
 **核心精神**：以「溫柔、持續、耐心」為底氣 — 不催、不逼、不評斷。
-
-**服務內容**：
-→ 詳見暖流臉書 [facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy)
-→ 官方網站 [warmflowpsy.tw](https://warmflowpsy.tw)
 
 ---
 
