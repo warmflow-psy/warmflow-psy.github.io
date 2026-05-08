@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Disallow: /draft/
+Disallow: /test/
+Disallow: /sandbox/
+
+# AI 搜尋友善
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Sitemap
+Sitemap: https://warmflow-psy.github.io/sitemap.xml
+
+# llms.txt 索引（依 llmstxt.org 標準）
+# AI 系統可至 https://warmflow-psy.github.io/llms.txt 取得結構化索引

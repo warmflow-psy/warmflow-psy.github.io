@@ -1,0 +1,107 @@
+# 暖流人心 GitHub Pages — .gitignore
+# 紀律：紅線 3 守住（依 Atlas 法規軸覆核 5/08 + 閘門 13 redact 鐵律）
+
+# === 紅線 3：API key / token / secrets 絕不 commit ===
+.env
+.env.*
+*.env
+meta_credentials.env
+secrets.json
+*.secret
+*.token
+*.key
+*.pem
+*.crt
+*.cert
+credentials.json
+service-account*.json
+*api_key*
+*ANTHROPIC*
+*OPENAI*
+*GITHUB_TOKEN*
+*META_*TOKEN*
+*LINE_*TOKEN*
+*THREADS_*TOKEN*
+
+# === Age 加密檔案不 commit（雙雲備份用，不上 GitHub）===
+*.age
+
+# === 個案資料絕不 commit（紅線 1 + 個資法 + 業倫理）===
+個案*
+case_*
+client_*
+patient_*
+治療紀錄*
+*個資*
+
+# === Plaud 錄音原始檔不 commit（含可能個案聲音）===
+Inbox/Plaud錄音/
+*.plaud
+*.wav
+*.mp3
+*.m4a
+
+# === Jekyll 編譯產出 ===
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# === Sass 編譯快取 ===
+.sass-cache/
+*.css.map
+
+# === Node ===
+node_modules/
+npm-debug.log*
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# === Editor / OS ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# === 測試 / 草稿 ===
+draft/
+test/
+sandbox/
+TEST_*
+
+# === 資料 / 分析 ===
+*.csv
+*.xlsx
+*.db
+*.sqlite
+
+# === 大檔案（GitHub 100MB 限制）===
+*.zip
+*.tar.gz
+*.7z
+*.dmg
+*.iso
+
+# === 圖檔（如過大）===
+*.psd
+*.ai
+
+# === 影片 ===
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# === Logs ===
+*.log
+logs/

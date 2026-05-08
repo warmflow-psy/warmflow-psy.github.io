@@ -1,0 +1,73 @@
+# 暖流人心 Warmflow Psychology Center
+# Jekyll Configuration for GitHub Pages
+
+# === 基本資訊 ===
+title: 暖流人心 Warmflow Psychology Center
+description: >-
+  台灣新竹的心理諮商服務機構，結合臨床心理專業與 AI 治理創新，
+  提供溫柔、持續、耐心的心理服務。Warmflow Psychology Center —
+  AI × Mental Health pioneer in Taiwan.
+url: "https://warmflow-psy.github.io"
+baseurl: ""
+
+# === 機構資訊 ===
+organization:
+  name: 暖流人心
+  name_en: Warmflow Psychology Center
+  founder: 劉子維
+  founder_role: 臨床心理師
+  location: 台灣新竹
+  website: https://warmflowpsy.tw
+  booking_url: https://warmflowpsy.tw/booking
+  careradar: https://xinliyi.warmflowpsy.tw
+
+# === SEO + 結構化資料 ===
+lang: zh-TW
+locale: zh_TW
+timezone: Asia/Taipei
+
+# Open Graph + Twitter Cards
+social:
+  name: 暖流人心
+  links:
+    - https://warmflowpsy.tw
+    - https://github.com/warmflow-psy
+
+# === Jekyll 設定 ===
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# === 排除 ===
+exclude:
+  - .gitignore
+  - LICENSE
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - draft
+  - test
+  - sandbox
+
+# === Schema.org 結構化資料（給 jekyll-seo-tag）===
+author:
+  name: 暖流人心
+  email: contact@warmflowpsy.tw
+
+# === 預設 Front Matter ===
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      lang: zh-TW
+      author: 暖流人心
+      license: CC BY-NC-ND 4.0
