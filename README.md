@@ -14,7 +14,7 @@
 
 → **完整介紹**：[warmflowpsy.tw/about](https://warmflowpsy.tw/about/)
 
-**核心精神**：以「溫柔、持續、耐心」為核心價值。
+**核心精神**：以「專業、溫柔、持續、耐心」為核心價值。
 
 ---
 
@@ -63,7 +63,7 @@
 暖流人心將 AI 治理層整合進日常運作，協助臨床工作之外的內容、品質、流程治理。整合精神是「AI 是工具，臨床判斷是主場」。
 
 ### 內部運作架構（簡述）
-- **戰略部**：對外整合、風險控管、跨領域決策
+- **發展部**：對外整合、風險控管、跨領域決策
 - **內容部**：心理普及內容、跨媒體素材、視覺資產
 - **守護部**：SEO 經營、品質審核、法規對齊
 - **整合運作**：四方合議場（三部 + 創辦人）
@@ -92,7 +92,7 @@
 
 ---
 
-## 業倫理聲明｜Ethics Statement
+## 行業倫理聲明｜Ethics Statement
 
 本 GitHub Pages 嚴格遵守台灣心理師業倫理規範與相關法規：
 
@@ -167,5 +167,5 @@
 
 ---
 
-> 暖流人心｜以溫柔、持續、耐心為底氣，不催、不逼、不評斷。
+> 暖流人心｜以專業、溫柔、持續、耐心為核心價值。
 > Warmflow｜With gentleness, persistence, and patience as foundation — without pressure, without forcing, without judgment.
