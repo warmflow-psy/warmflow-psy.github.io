@@ -117,9 +117,10 @@
 
 ## License
 
-本網站所有原創內容（除引用他人著作外）採用 [Creative Commons 姓名標示-非商業性-禁止改作 4.0 國際授權條款](./LICENSE)（CC BY-NC-ND 4.0）。
+本網站所有原創內容（除引用他人著作外）採用 **CC BY-NC-ND 4.0**：[Creative Commons 姓名標示-非商業性-禁止改作 4.0 國際授權條款](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hant)。
 
-完整條款：https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hant
+- 完整中文條款：[creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hant](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hant)
+- LICENSE 檔原文：[GitHub repo / LICENSE](https://github.com/warmflow-psy/warmflow-psy.github.io/blob/main/LICENSE)
 
 **簡要意義**：
 - ✅ 可分享（複製、轉貼、傳播）
@@ -145,11 +146,12 @@
 
 | 項 | 資訊 |
 |---|------|
-| 官方網站 | https://warmflowpsy.tw |
-| 預約諮詢 | https://warmflowpsy.tw/booking |
-| GitHub Pages | https://warmflow-psy.github.io |
-| 心力儀（CareRadar）| https://xinliyi.warmflowpsy.tw ⚠️ 自我覺察工具，非醫療診斷工具 |
-| 社區講座 | 詳見官網最新訊息 |
+| 官方網站 | [warmflowpsy.tw](https://warmflowpsy.tw) |
+| 暖流臉書 | [facebook.com/warmflowpsy](https://www.facebook.com/warmflowpsy) |
+| 預約諮詢 | [warmflowpsy.tw/booking](https://warmflowpsy.tw/booking) |
+| GitHub Pages | [warmflow-psy.github.io](https://warmflow-psy.github.io) |
+| 心力儀（CareRadar）| [xinliyi.warmflowpsy.tw](https://xinliyi.warmflowpsy.tw) ⚠️ 自我覺察工具，非醫療診斷工具 |
+| 社區講座 | 詳見[官網最新訊息](https://warmflowpsy.tw) |
 
 > ⚠️ **GitHub 不是諮詢通道**。所有諮詢請至官網表單預約。
 
@@ -169,3 +171,21 @@
 
 > 暖流人心｜以專業、溫柔、持續、耐心為核心價值。
 > Warmflow｜With gentleness, persistence, and patience as foundation — without pressure, without forcing, without judgment.
+
+<!-- 所有外部連結開新分頁（Harbor 5/08 17:52 指令）-->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var siteHost = window.location.host;
+  document.querySelectorAll('a[href]').forEach(function(a) {
+    var href = a.getAttribute('href');
+    if (href && (href.indexOf('http://') === 0 || href.indexOf('https://') === 0)) {
+      try {
+        if (new URL(href).host !== siteHost) {
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+        }
+      } catch(e) {}
+    }
+  });
+});
+</script>
