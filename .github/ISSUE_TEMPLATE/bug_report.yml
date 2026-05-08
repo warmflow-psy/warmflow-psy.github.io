@@ -1,0 +1,62 @@
+name: 網站問題回報 / Website Issue Report
+description: 回報 GitHub Pages 網站的技術問題、typo、翻譯建議或內容錯誤
+title: "[BUG/TYPO]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝您協助改善暖流人心 GitHub Pages。
+
+        ⚠️ **本 Issue 僅受理以下類型**：
+        - 網站技術 bug（連結失效、頁面顯示異常等）
+        - typo（錯字、標點符號錯誤）
+        - 翻譯建議（中英文用語修正）
+        - 內容事實錯誤（如法規條號、機構資訊）
+
+        ❌ **不受理以下類型**（請至官網表單預約 https://warmflowpsy.tw/booking）：
+        - 個案諮詢、症狀諮詢
+        - 心理健康問題詢問
+        - 個人困擾求助
+        - 治療師推薦詢問
+
+        如為心理健康緊急狀況，請撥打安心專線 1925。
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: 問題類型
+      description: 請選擇您要回報的問題類型
+      options:
+        - 網站 bug（連結失效、頁面異常）
+        - typo（錯字 / 標點）
+        - 翻譯建議（中英文）
+        - 內容事實錯誤（法規 / 機構資訊）
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題描述
+      description: 請描述您發現的問題（請勿包含個人健康資訊）
+      placeholder: 例：README.md 第 X 行的法規條號疑似錯誤...
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: 相關 URL（選填）
+      description: 問題出現的頁面網址
+      placeholder: https://warmflow-psy.github.io/...
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 我已確認
+      options:
+        - label: 本 Issue 不包含個案諮詢、症狀諮詢或個人健康資訊
+          required: true
+        - label: 我了解 GitHub 不是諮詢通道，如需諮詢將至官網預約
+          required: true

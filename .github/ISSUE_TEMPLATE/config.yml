@@ -1,0 +1,13 @@
+# 暖流人心 GitHub Pages Issue Template Configuration
+# 禁止個案諮詢 / 症狀諮詢類議題（依心理師法 §13/14/27）
+blank_issues_enabled: false
+contact_links:
+  - name: 預約諮詢
+    url: https://warmflowpsy.tw/booking
+    about: ⚠️ GitHub 不是諮詢通道。所有心理諮詢請至官網表單預約。
+  - name: 心理健康緊急協助
+    url: tel:1925
+    about: 安心專線 1925（24 小時免付費心理諮詢）
+  - name: 暖流官方網站
+    url: https://warmflowpsy.tw
+    about: 完整機構介紹、服務內容、預約方式
