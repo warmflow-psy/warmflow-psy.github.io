@@ -1,3 +1,8 @@
+---
+title: 首頁
+nav_order: 1
+---
+
 # 暖流人心 Warmflow Psychology Center
 
 > 台灣新竹的心理服務團隊，結合臨床心理專業與 AI 治理整合，提供溫柔、持續、耐心的心理服務。

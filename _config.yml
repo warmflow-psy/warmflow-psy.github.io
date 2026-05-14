@@ -36,12 +36,35 @@ social:
 # === Jekyll 設定 ===
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-cayman
+
+# === just-the-docs theme（書籍架構，連動 5/13 Harbor 拍板「電子閱讀」+ YMYL 戰略 🅓）===
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
+
+# === just-the-docs 設定 ===
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+footer_content: "© 2026 <a href=\"https://warmflowpsy.tw\">暖流人心</a> | <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hant\">CC BY-NC-ND 4.0</a>"
+
+aux_links:
+  "暖流官網":
+    - "//warmflowpsy.tw"
+  "暖流臉書":
+    - "//www.facebook.com/warmflow.psycenter/"
 
 # === 排除 ===
 exclude:
