@@ -1,5 +1,79 @@
 <!-- May 風 Google Fonts: Noto Serif TC + Cormorant Garamond -->
-<!-- 連動 _sass/color_schemes/may.scss / Harbor 5/14 15:42 拍板 B「May 風」 -->
+<!-- 連動 Harbor 5/14 15:42 拍板 B「May 風」 -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;700&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+
+<!-- v0.9.4 May 風內聯 CSS（取代 may.scss 因 remote_theme 編譯錯）-->
+<style>
+  /* === 主色覆寫 === */
+  :root {
+    --may-bg: #fdf6f2;
+    --may-sidebar: #f5ede6;
+    --may-text: #2d2622;
+    --may-heading: #c0796a;
+    --may-link: #c0796a;
+    --may-border: #e8d9cc;
+    --may-code-bg: #f0e7e0;
+  }
+
+  /* === Body 背景 + 字體 === */
+  body {
+    background-color: var(--may-bg) !important;
+    color: var(--may-text);
+    font-family: "Noto Serif TC", "PingFang TC", "Hiragino Sans CNS", "Microsoft JhengHei", serif !important;
+    letter-spacing: 0.02em;
+  }
+
+  /* === Sidebar 背景 === */
+  .side-bar {
+    background-color: var(--may-sidebar) !important;
+    border-right: 1px solid var(--may-border) !important;
+  }
+
+  /* === 標題（H1-H6）暖磚紅 + Cormorant Garamond === */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Cormorant Garamond", "Noto Serif TC", Georgia, serif !important;
+    color: var(--may-heading) !important;
+    font-weight: 600;
+  }
+
+  /* === Site title === */
+  .site-title, .site-title a {
+    font-family: "Cormorant Garamond", "Noto Serif TC", Georgia, serif !important;
+    color: var(--may-heading) !important;
+  }
+
+  /* === 連結色 === */
+  a, .main a:not(.btn) {
+    color: var(--may-link);
+  }
+
+  /* === Sidebar nav-list 樣式 === */
+  .nav-list .nav-list-item .nav-list-link:hover {
+    background-color: rgba(192, 121, 106, 0.08) !important;
+  }
+
+  .nav-list .nav-list-item .nav-list-link.active {
+    background-color: rgba(192, 121, 106, 0.15) !important;
+    color: var(--may-heading) !important;
+    font-weight: 600;
+  }
+
+  /* === Code 區塊 === */
+  code {
+    background-color: var(--may-code-bg) !important;
+    color: var(--may-text) !important;
+  }
+
+  /* === aux-nav 頂部連結 === */
+  .aux-nav-list-item a {
+    color: var(--may-link) !important;
+  }
+
+  /* === 表格 === */
+  th {
+    background-color: var(--may-sidebar) !important;
+    color: var(--may-heading) !important;
+  }
+</style>
