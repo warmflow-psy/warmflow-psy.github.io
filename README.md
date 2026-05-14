@@ -1,6 +1,7 @@
 ---
 title: 首頁
 nav_order: 1
+permalink: /
 ---
 
 # 暖流人心 Warmflow Psychology Center
