@@ -1,0 +1,62 @@
+// === May 風 color scheme ===
+// 連動暖流官網 May 風（#fdf6f2 暖奶白 / #c0796a 暖磚紅）
+// 建立: Atlas 2026-05-14 / Harbor 5/14 15:42 拍板 B「May 風」
+
+// === 主色系 ===
+$body-background-color: #fdf6f2 !default;          // 暖奶白
+$sidebar-color: #f5ede6 !default;                  // 稍深奶白（sidebar）
+$body-text-color: #2d2622 !default;                // 暖深色（非純黑）
+$body-heading-color: #c0796a !default;             // 暖磚紅（標題）
+
+// === 連結 + 按鈕 ===
+$link-color: #c0796a !default;                     // 主色
+$btn-primary-color: #c0796a !default;
+$base-button-color: #c0796a !default;
+
+// === 表格 ===
+$table-background-color: #fffaf5 !default;         // 比 body 更淺奶白
+$feedback-color: #c0796a !default;
+
+// === code 區塊 ===
+$code-background-color: #f0e7e0 !default;          // 暖灰
+$code-linenumber-color: #8a7a6e !default;
+
+// === 邊框 ===
+$border-color: #e8d9cc !default;                   // 暖咖邊
+
+// === 搜尋 ===
+$search-background-color: #fffaf5 !default;
+$search-result-hover-background-color: rgba(192, 121, 106, 0.1) !default;
+
+// === 字體（中文 Noto Serif TC + 英文 Cormorant Garamond）===
+$body-font-family: "Noto Serif TC", "PingFang TC", "Hiragino Sans CNS", "Microsoft JhengHei", "Cormorant Garamond", Georgia, serif !default;
+$mono-font-family: "Cascadia Code", "Fira Code", Menlo, Consolas, "Source Han Mono", monospace !default;
+
+// === 自訂 May 風進階樣式 ===
+@import "./light";  // 繼承 just-the-docs light scheme 為基底
+
+// === Body 額外調整 ===
+body {
+  letter-spacing: 0.02em;  // 中文字間距稍寬
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Cormorant Garamond", "Noto Serif TC", Georgia, serif;
+  font-weight: 600;
+}
+
+.site-title {
+  font-family: "Cormorant Garamond", "Noto Serif TC", Georgia, serif;
+  color: $body-heading-color !important;
+}
+
+// === sidebar 連結 hover 效果 ===
+.nav-list .nav-list-item .nav-list-link:hover {
+  background-color: rgba(192, 121, 106, 0.08);
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: rgba(192, 121, 106, 0.15);
+  color: $body-heading-color;
+  font-weight: 600;
+}

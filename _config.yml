@@ -47,7 +47,8 @@ plugins:
   - jekyll-remote-theme
 
 # === just-the-docs 設定 ===
-color_scheme: light
+# May 風（連動暖流官網 #fdf6f2 暖奶白 / #c0796a 暖磚紅）
+color_scheme: may
 search_enabled: true
 search:
   heading_level: 3

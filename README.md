@@ -18,15 +18,23 @@ permalink: /
 
 → **完整介紹**：[warmflowpsy.tw/about](https://warmflowpsy.tw/about/)
 
-**核心精神**：以「溫柔、持續、耐心」為底氣 — 不催、不逼、不評斷。
+**核心精神**：以溫柔、持續、耐心為核心。
 
 ---
 
 ## 服務介紹｜Services
 
-→ **完整服務介紹**：[warmflowpsy.tw/services](https://warmflowpsy.tw/services/)
-→ **暖流臉書**（活動 / 動態）：[facebook.com/warmflow.psycenter](https://www.facebook.com/warmflow.psycenter/)
-→ **預約諮詢**：[warmflowpsy.tw/booking](https://warmflowpsy.tw/booking)
+### 完整服務內容
+→ [**warmflowpsy.tw/services**](https://warmflowpsy.tw/services/)
+含服務對象 / 諮商型態 / 收費標準 / 預約流程
+
+### 活動 / 最新動態
+→ [**暖流臉書 facebook.com/warmflow.psycenter**](https://www.facebook.com/warmflow.psycenter/)
+心理普及貼文、活動公告、社群互動
+
+### 預約諮詢
+→ [**warmflowpsy.tw/booking**](https://warmflowpsy.tw/booking)
+官網表單預約 — 暖流唯一受理諮詢的管道
 
 ---
 
@@ -167,8 +175,8 @@ permalink: /
 
 ---
 
-> 暖流人心｜以溫柔、持續、耐心為底氣，不催、不逼、不評斷。
-> Warmflow｜With gentleness, persistence, and patience as foundation — without pressure, without forcing, without judgment.
+> 暖流人心｜以溫柔、持續、耐心為核心。
+> Warmflow｜With gentleness, persistence, and patience at the core.
 
 <!-- 所有外部連結開新分頁（Harbor 5/08 17:52 指令）-->
 <script>
