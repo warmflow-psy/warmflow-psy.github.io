@@ -90,58 +90,61 @@
     border-radius: 4px;
   }
 
-  /* === v0.9.5 新增：Hero 區（H1 + 副標 + badges）漸層暖色背景 === */
+  /* === v0.9.6 強化：Hero 區大對比視覺重點 === */
   .hero {
-    background: linear-gradient(135deg, #fdf6f2 0%, #ede0d4 100%);
-    padding: 3rem 2.5rem 2rem;
-    margin: -2rem -2rem 2rem;
-    border-bottom: 3px solid var(--may-heading);
-    text-align: center;
-    border-radius: 0 0 8px 8px;
+    background: linear-gradient(135deg, #f8d5c2 0%, #fdf6f2 60%, #ede0d4 100%) !important;
+    padding: 4rem 2.5rem 3rem !important;
+    margin: -1.5rem -1.5rem 3rem !important;
+    border-bottom: 6px solid var(--may-heading) !important;
+    border-radius: 0 0 12px 12px !important;
+    text-align: center !important;
+    box-shadow: 0 4px 12px rgba(192, 121, 106, 0.15) !important;
+    position: relative !important;
   }
 
-  .hero h1 {
-    margin-top: 0;
-    font-size: 3rem;
-    letter-spacing: 0.05em;
+  /* Hero 上方裝飾條 */
+  .hero::before {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 4px;
+    background: var(--may-heading);
+    margin: 0 auto 1.5rem;
+    border-radius: 2px;
   }
 
-  .hero blockquote {
-    border-left: none;
-    padding: 0.5rem 1rem;
-    margin: 1rem 0;
-    background: transparent;
-    font-style: italic;
-    color: #5a4a40;
-    font-size: 1.1rem;
+  .hero h1,
+  .hero .hero-title {
+    margin-top: 0 !important;
+    margin-bottom: 1rem !important;
+    font-size: 3.5rem !important;
+    letter-spacing: 0.08em !important;
+    line-height: 1.2 !important;
+    color: var(--may-heading) !important;
+  }
+
+  .hero blockquote,
+  .hero .hero-subtitle {
+    border-left: none !important;
+    padding: 0.8rem 2rem !important;
+    margin: 1.5rem auto !important;
+    max-width: 700px !important;
+    background: rgba(255, 255, 255, 0.4) !important;
+    font-style: italic !important;
+    color: #5a4a40 !important;
+    font-size: 1.15rem !important;
+    border-radius: 8px !important;
+    line-height: 1.7 !important;
   }
 
   .hero p {
-    margin: 0.5rem 0;
+    margin: 0.5rem 0 !important;
+  }
+
+  .hero p img {
+    margin: 0.25rem;
+    vertical-align: middle;
   }
 </style>
+<!-- v0.9.6 移除 JS — README.md 直接 HTML wrap div.hero (SSR 生成) -->
 
-<!-- v0.9.5 Hero 區 JS 包裝：把 main-content 開頭 h1 + 後續 ~ hr 包進 .hero -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const main = document.querySelector('.main-content');
-  if (!main) return;
-  const h1 = main.querySelector(':scope > h1:first-of-type');
-  if (!h1) return;
-
-  // 只在首頁應用（h1 是「暖流人心」開頭）
-  if (!h1.textContent.includes('暖流人心')) return;
-
-  const hero = document.createElement('div');
-  hero.className = 'hero';
-  main.insertBefore(hero, h1);
-
-  let next = h1;
-  while (next) {
-    const after = next.nextElementSibling;
-    hero.appendChild(next);
-    if (next.tagName === 'HR') break;
-    next = after;
-  }
-});
-</script>
