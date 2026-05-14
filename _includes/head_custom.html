@@ -76,4 +76,72 @@
     background-color: var(--may-sidebar) !important;
     color: var(--may-heading) !important;
   }
+
+  /* === v0.9.5 新增：頂部 search/aux 白色區塊區隔 === */
+  .main-header {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid var(--may-border) !important;
+  }
+
+  /* search input 框 */
+  .search-input-wrap {
+    background-color: #ffffff !important;
+    border: 1px solid var(--may-border);
+    border-radius: 4px;
+  }
+
+  /* === v0.9.5 新增：Hero 區（H1 + 副標 + badges）漸層暖色背景 === */
+  .hero {
+    background: linear-gradient(135deg, #fdf6f2 0%, #ede0d4 100%);
+    padding: 3rem 2.5rem 2rem;
+    margin: -2rem -2rem 2rem;
+    border-bottom: 3px solid var(--may-heading);
+    text-align: center;
+    border-radius: 0 0 8px 8px;
+  }
+
+  .hero h1 {
+    margin-top: 0;
+    font-size: 3rem;
+    letter-spacing: 0.05em;
+  }
+
+  .hero blockquote {
+    border-left: none;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    background: transparent;
+    font-style: italic;
+    color: #5a4a40;
+    font-size: 1.1rem;
+  }
+
+  .hero p {
+    margin: 0.5rem 0;
+  }
 </style>
+
+<!-- v0.9.5 Hero 區 JS 包裝：把 main-content 開頭 h1 + 後續 ~ hr 包進 .hero -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const main = document.querySelector('.main-content');
+  if (!main) return;
+  const h1 = main.querySelector(':scope > h1:first-of-type');
+  if (!h1) return;
+
+  // 只在首頁應用（h1 是「暖流人心」開頭）
+  if (!h1.textContent.includes('暖流人心')) return;
+
+  const hero = document.createElement('div');
+  hero.className = 'hero';
+  main.insertBefore(hero, h1);
+
+  let next = h1;
+  while (next) {
+    const after = next.nextElementSibling;
+    hero.appendChild(next);
+    if (next.tagName === 'HR') break;
+    next = after;
+  }
+});
+</script>
