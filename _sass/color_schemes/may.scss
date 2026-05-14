@@ -33,7 +33,8 @@ $body-font-family: "Noto Serif TC", "PingFang TC", "Hiragino Sans CNS", "Microso
 $mono-font-family: "Cascadia Code", "Fira Code", Menlo, Consolas, "Source Han Mono", monospace !default;
 
 // === 自訂 May 風進階樣式 ===
-@import "./light";  // 繼承 just-the-docs light scheme 為基底
+// 注意：remote_theme 模式不能 @import "./light"（找不到，build error）
+// just-the-docs 預設色由 variables 覆寫即可，不需 @import
 
 // === Body 額外調整 ===
 body {
