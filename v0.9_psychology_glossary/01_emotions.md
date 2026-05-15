@@ -6,9 +6,9 @@ nav_order: 1
 
 # 第 1 卷 情緒概念
 
-> 暖流人心心理諮商詞彙表 v0.9 — 卷 1 情緒概念（v0.9.1 擴展中，目標 30-40 詞彙）
+> 暖流人心心理諮商詞彙表 v0.9 — 卷 1 情緒概念（v0.9.2 擴展中，目標 30 詞彙）
 
-🟡 **第一波擴展 5/15** — 從 demo 5 → 15 詞彙。後續第二波 5/16 + 第三波 5/17 將補齊至完整版。
+🟡 **第二波擴展 5/15** — 從 demo 5 → 15 → **23 詞彙**。後續第三波 5/16 補齊 +7 → 30 詞完整版。
 
 每詞彙 5 部分結構：定義 / 英文同義 / 理論源頭 OR 臨床範疇 / 暖流引用 / YMYL 重要提醒（臨床診斷類必加）
 
@@ -276,6 +276,178 @@ nav_order: 1
 
 ---
 
+### 憤怒 Anger
+
+**定義**：對被冒犯、阻礙或不公正情境的強烈情緒反應，含生理喚起與行為衝動。
+
+**英文同義**：anger, rage, indignation
+
+**理論源頭**：Plutchik 情緒輪盤（基本情緒）/ Lazarus 認知評估理論 / Linehan DBT 情緒調節
+
+**功能性觀點**：
+- **健康功能**：保護界線、推動改變、社會公平
+- **失調表現**：壓抑（轉向自身憂鬱）/ 爆發（傷害關係）/ 慢性化（高血壓、心血管風險）
+
+**暖流引用**：
+- [面對青少年的憤怒，父母先別急著「講道理」](https://warmflowpsy.tw/category/parenting/)
+- 「對立反抗症（ODD）懶人包」
+
+---
+
+### 悲傷 Sadness
+
+**定義**：對失去、挫敗或無法挽回的情境產生的低能量情緒，傾向收回與內省。
+
+**英文同義**：sadness, sorrow, melancholy
+
+**理論源頭**：Plutchik 基本情緒 / Bonanno 哀悼歷程研究 / Ekman 跨文化情緒研究
+
+**悲傷 vs 抑鬱**：
+- **悲傷**：對特定事件的情緒反應，會隨時間流動
+- **抑鬱**：持續性、瀰漫性、影響日常功能，達臨床診斷標準
+
+**演化功能**：促進反思、徵召社會支持、保存能量度過低潮期
+
+**暖流引用**：
+- 「悲傷不需要說出每個細節：小窗口原則」
+- 哀傷與失落系列文章
+
+---
+
+### 恐懼 Fear
+
+**定義**：對立即性威脅的情緒反應，伴隨自律神經系統高度動員（戰 / 逃 / 凍結 / 討好）。
+
+**英文同義**：fear, fright, terror
+
+**理論源頭**：LeDoux 杏仁核恐懼研究 / Porges 多重迷走神經理論 / Bowlby 依附與恐懼
+
+**恐懼 vs 焦慮**：
+- **恐懼**：對具體存在威脅（眼前的狗、駕駛失控）
+- **焦慮**：對未來不確定威脅（會不會被裁員、考試會不會考差）
+
+**4F 反應**：Fight（戰）/ Flight（逃）/ Freeze（凍結）/ Fawn（討好，創傷反應特殊型）
+
+**暖流引用**：
+- 「鬼屋和岩漿地板：孩子為何喜歡玩假裝很危險的遊戲」（兒童克服恐懼）
+- 創傷與 PTSD 系列文章
+
+---
+
+### 嫉妒 Jealousy / 羨慕 Envy
+
+**定義**：
+- **嫉妒**（jealousy）：對失去既有所有物（關係、地位）的擔憂與抗拒，三方結構
+- **羨慕**（envy）：對他人擁有自己沒有之物的渴望與比較感，兩方結構
+
+**英文同義**：jealousy, envy（兩者學術上區辨）
+
+**理論源頭**：Parrott & Smith（1993）兩者區辨研究 / 客體關係學派（Klein）/ Festinger 社會比較理論
+
+**社群媒體時代特殊性**：IG/FB 持續暴露他人「精選版生活」→ 慢性羨慕（chronic envy）與青少年憂鬱相關研究增加（Vogel et al., 2014）
+
+**暖流引用**：
+- 「美肌濾鏡的另一面：青少年在 IG 拍照時其實在練習成為誰」（社群羨慕）
+- 手足競爭與兄弟姐妹嫉妒系列
+
+---
+
+### 孤獨 Loneliness
+
+**定義**：實際社交連結與渴望連結間的主觀落差感，與「獨處」（solitude）不同。
+
+**英文同義**：loneliness, social isolation feeling
+
+**理論源頭**：Weiss（1973）情感孤獨 vs 社交孤獨二元模型 / Cacioppo 孤獨神經科學
+
+**兩種類型**：
+- **情感孤獨**（emotional loneliness）：缺乏深度親密連結
+- **社交孤獨**（social loneliness）：缺乏歸屬群體
+
+**健康影響**：慢性孤獨與心血管疾病、失智、早逝相關（Holt-Lunstad et al., 2015 元分析）
+
+**暖流引用**：
+- [.tw 孤獨感相關文章](https://warmflowpsy.tw/category/relationships/)
+- 「孤獨死的心理脈絡」
+- 「身邊有人卻感到孤獨」
+
+⚠️ **YMYL 重要提醒**：慢性孤獨與多種身心健康問題相關。若孤獨感持續影響生活功能或伴隨憂鬱症狀，請尋求合格臨床心理師專業評估。
+
+---
+
+### 倦怠 Burnout
+
+**定義**：長期壓力下出現情感耗竭、去人格化、成就感降低的狀態，2019 年 WHO 列入 ICD-11 職業相關現象。
+
+**英文同義**：burnout, occupational burnout
+
+**理論源頭**：Maslach 倦怠量表（MBI）三向度 / Schaufeli 工作投入 vs 倦怠連續譜
+
+**三向度症狀**：
+- **情感耗竭**（emotional exhaustion）：核心症狀，能量被掏空
+- **去人格化**（depersonalization）：對服務對象冷漠、距離化
+- **個人成就感降低**（reduced personal accomplishment）：自我價值質疑
+
+**ICD-11 定位**：職業相關現象（非疾病分類），但與憂鬱症高度共病
+
+**暖流引用**：
+- [.tw 職業倦怠相關文章](https://warmflowpsy.tw/category/workplace/)
+- 「Burnout 不是抗壓性不夠：職業倦怠的真正原因與恢復指南」
+
+---
+
+### 創傷反應 Trauma Response
+
+**定義**：經歷創傷事件後身體與心理的自動化保護反應，包含戰 / 逃 / 凍結 / 討好四類型。
+
+**英文同義**：trauma response, traumatic stress response
+
+**理論源頭**：Porges 多重迷走神經理論 / van der Kolk《身體會記得》 / Levine 體感經驗療法（SE）
+
+**4F 創傷反應**：
+- **戰**（fight）：易怒、攻擊、敵意
+- **逃**（flight）：迴避、過度工作、強迫運動
+- **凍結**（freeze）：解離、麻木、無法行動
+- **討好**（fawn）：取悅、邊界模糊、過度照顧他人（CPTSD 常見）
+
+**重要區辨**：創傷反應 ≠ 個性缺陷，是神經系統的生存策略。
+
+**暖流引用**：
+- 「乖不等於好：聽話可能是創傷反應」（討好型）
+- 創傷與 PTSD 系列
+
+⚠️ **YMYL 重要提醒**：創傷反應若長期妨礙生活功能，可能符合 PTSD / CPTSD 診斷標準。請尋求合格臨床心理師或精神科醫師專業評估。
+
+---
+
+### 解離 Dissociation
+
+**定義**：意識、記憶、身分或感知正常整合的中斷，從輕微（白日夢、開車失神）到嚴重（解離症）光譜。
+
+**英文同義**：dissociation, dissociative experience
+
+**理論源頭**：Janet（19 世紀末）/ Putnam BASK 模型 / van der Hart 結構性解離理論
+
+**光譜五階段**：
+- **正常解離**：白日夢、深度專注、被故事帶走
+- **創傷解離**：童年高度壓力下的自動防衛
+- **解離症狀**：去現實感（derealization）、去自我感（depersonalization）
+- **解離身分疾患**（DID）：嚴重多元身分分裂
+- **創傷後解離障礙**：複雜性 PTSD 共病
+
+**辨識訊號**：
+- 失去時間感（突然「醒來」發現過了很久）
+- 看自己像在看別人（去自我感）
+- 周圍環境變得不真實（去現實感）
+
+**暖流引用**：
+- [解離症懶人包：為什麼有時候感覺不像自己](https://warmflowpsy.tw/category/depression/)
+- 童年創傷與成人解離症狀關聯
+
+⚠️ **YMYL 重要提醒**：解離症狀為臨床診斷類別。若解離影響生活或伴隨記憶斷層、自傷風險，請立即尋求合格臨床心理師或精神科醫師專業評估。
+
+---
+
 ## 引用規範
 
 依 CC BY-NC-ND 4.0 授權：
@@ -309,6 +481,28 @@ Stroebe, M., & Schut, H. (1999). The dual process model of coping with bereaveme
 
 Worden, J. W. (2018). *Grief counseling and grief therapy: A handbook for the mental health practitioner* (5th ed.). Springer.
 
+Cacioppo, J. T., & Patrick, W. (2008). *Loneliness: Human nature and the need for social connection*. W. W. Norton.
+
+Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. *Perspectives on Psychological Science*, 10(2), 227-237. https://doi.org/10.1177/1745691614568352
+
+LeDoux, J. (2015). *Anxious: Using the brain to understand and treat fear and anxiety*. Viking.
+
+Maslach, C., Schaufeli, W. B., & Leiter, M. P. (2001). Job burnout. *Annual Review of Psychology*, 52, 397-422. https://doi.org/10.1146/annurev.psych.52.1.397
+
+Parrott, W. G., & Smith, R. H. (1993). Distinguishing the experiences of envy and jealousy. *Journal of Personality and Social Psychology*, 64(6), 906-920. https://doi.org/10.1037/0022-3514.64.6.906
+
+Plutchik, R. (2001). The nature of emotions: Human emotions have deep evolutionary roots. *American Scientist*, 89(4), 344-350.
+
+Porges, S. W. (2011). *The polyvagal theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation*. W. W. Norton.
+
+van der Hart, O., Nijenhuis, E. R. S., & Steele, K. (2006). *The haunted self: Structural dissociation and the treatment of chronic traumatization*. W. W. Norton.
+
+van der Kolk, B. A. (2014). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Viking.
+
+Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media, and self-esteem. *Psychology of Popular Media Culture*, 3(4), 206-222. https://doi.org/10.1037/ppm0000047
+
+Weiss, R. S. (1973). *Loneliness: The experience of emotional and social isolation*. MIT Press.
+
 ---
 
-**Echo 內容部 5/15 10:25** — v0.9.2 卷 1 第一波擴展 demo 5 → 15 詞彙 / 5 部分結構齊備 / APA 7 reference 11 條 / YMYL 提醒 3 處（焦慮 / PTSD / 抑鬱 / 羞愧 / 哀傷臨床診斷類）
+**Echo 內容部 5/15 11:05** — v0.9.3 卷 1 第二波擴展 15 → 23 詞彙 / 新增 8 詞（憤怒 / 悲傷 / 恐懼 / 嫉妒羨慕 / 孤獨 / 倦怠 / 創傷反應 / 解離）/ APA 7 reference 23 條 / YMYL 提醒 8 處（焦慮 / PTSD / 抑鬱 / 羞愧 / 哀傷 / 孤獨 / 創傷反應 / 解離 — 臨床診斷類）
