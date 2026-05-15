@@ -6,9 +6,9 @@ nav_order: 1
 
 # 第 1 卷 情緒概念
 
-> 暖流人心心理諮商詞彙表 v0.9 — 卷 1 情緒概念（v0.9.2 擴展中，目標 30 詞彙）
+> 暖流人心心理諮商詞彙表 v0.9 — 卷 1 情緒概念（**v0.9.4 完整版 30 詞彙**）
 
-🟡 **第二波擴展 5/15** — 從 demo 5 → 15 → **23 詞彙**。後續第三波 5/16 補齊 +7 → 30 詞完整版。
+🟢 **卷 1 完整版 5/15** — demo 5 → 15 → 23 → **30 詞彙完整版**。比 5/17 排程提前 2 天完工。
 
 每詞彙 5 部分結構：定義 / 英文同義 / 理論源頭 OR 臨床範疇 / 暖流引用 / YMYL 重要提醒（臨床診斷類必加）
 
@@ -448,6 +448,172 @@ nav_order: 1
 
 ---
 
+### 麻木 Numbness / 情感麻木 Emotional Numbness
+
+**定義**：情緒反應降低或缺席的狀態，常見於創傷後、長期壓力或解離防衛中。
+
+**英文同義**：emotional numbness, affective blunting, anhedonia（快感缺乏，亞型）
+
+**理論源頭**：van der Kolk 創傷凍結反應 / Bonanno 哀悼歷程 / Pizzagalli 快感缺乏研究
+
+**功能性觀點**：
+- **保護功能**：神經系統承受超載時的自動降噪，類似電腦過熱降頻
+- **失調表現**：長期化阻礙生活功能與親密連結
+
+**辨識訊號**：
+- 知道事情很大但「沒感覺」
+- 喜歡的食物變得無味
+- 與重要他人在一起但「人不在」
+
+**暖流引用**：
+- [眼淚流不出來了：情感麻木是什麼、為什麼發生](https://warmflowpsy.tw/category/wellness/)
+- 「什麼都感覺不到的時候，不是你壞掉了」（心力儀推廣系列）
+
+⚠️ **YMYL 重要提醒**：持續性麻木若超過 2 週並伴隨自傷或自殺念頭，請立即撥打安心專線 1925 或就近就醫，並尋求合格臨床心理師或精神科醫師專業評估。
+
+---
+
+### 高敏感 High Sensitivity / HSP
+
+**定義**：對外部刺激（聲光、氣味、情緒）與內部狀態（身體感受、人際細節）有更深處理的神經多樣性特質，非疾病。
+
+**英文同義**：highly sensitive person (HSP), sensory processing sensitivity (SPS)
+
+**理論源頭**：Elaine Aron（1996）正式提出 HSP 概念 / Acevedo 神經科學研究（深度處理在 fMRI 可見）
+
+**DOES 四特徵**（Aron 框架）：
+- **D**epth of processing：深度處理，慢決定但全面
+- **O**verstimulation：易感官過載
+- **E**motional reactivity & empathy：情緒反應強 + 高同理
+- **S**ensing the subtle：察覺細微（光線、氣味、情緒微表情）
+
+**重要區辨**：HSP ≠ 內向 / 神經質 / ASD。HSP 約佔人口 15-20%，無性別差異。
+
+**暖流引用**：
+- [高敏感的孩子沒有你想的脆弱，只是接收器更靈敏](https://warmflowpsy.tw/category/parenting/)
+- 親子教養 HSP 兒童系列
+
+---
+
+### 自我同情 Self-Compassion
+
+**定義**：以對待親密好友的善意態度對待自己，特別在失敗、不足或痛苦時刻。
+
+**英文同義**：self-compassion, self-kindness
+
+**理論源頭**：Kristin Neff（2003）正式提出 + 開發量表 / Gilbert 同情焦點治療（CFT）
+
+**三要素**（Neff 框架）：
+- **善待自己**（self-kindness）vs 自我批判
+- **共通人性**（common humanity）：理解失敗與痛苦是人類共通經驗 vs 孤立化
+- **正念**（mindfulness）：接納當下情緒而不過度認同 vs 過度反芻
+
+**與自尊的差異**：自尊依賴外在評價（比較、成就），自我同情不依賴比較，更穩定。
+
+**暖流引用**：
+- [「愛自己」三個字幾歲教才聽得懂](https://warmflowpsy.tw/category/parenting/)（自我同情教養）
+- 心理師自我照顧系列
+
+---
+
+### 防衛機制 Defense Mechanism
+
+**定義**：心智為了減輕焦慮、內疚或心理衝突而自動啟動的內在歷程，多數無意識運作。
+
+**英文同義**：defense mechanism, ego defense
+
+**理論源頭**：Freud（1894）初步提出 / Anna Freud（1936）系統化 / Vaillant（1977）成熟度分級
+
+**Vaillant 四級分類**：
+- **病態防衛**：否認（denial）、扭曲（distortion）、妄想性投射
+- **不成熟防衛**：投射（projection）、被動攻擊、退化（regression）
+- **神經質防衛**：壓抑（repression）、合理化（rationalization）、置換（displacement）
+- **成熟防衛**：昇華（sublimation）、幽默、利他、預期、抑制（suppression）
+
+**主要常見類型**：
+- **投射**（projection）：將自己無法接受的情緒歸於他人
+- **壓抑**（repression）：將威脅性念頭推出意識
+- **否認**（denial）：拒絕承認客觀現實
+- **合理化**（rationalization）：用看似合理的解釋掩蓋真實動機
+
+**暖流引用**：
+- [投射，你以為在說別人其實在說自己](https://warmflowpsy.tw/category/psychologist-view/)
+- 「同情投射」/「童年創傷與成人防衛」系列
+
+---
+
+### 替代性創傷 Vicarious Trauma
+
+**定義**：助人工作者長期接觸他人創傷故事後，自身出現類似 PTSD 症狀的累積性影響。
+
+**英文同義**：vicarious trauma, secondary traumatic stress (STS), compassion fatigue
+
+**理論源頭**：McCann & Pearlman（1990）正式提出 / Figley（1995）同情疲勞研究 / Stamm 替代性復原 vs 替代性創傷
+
+**核心症狀**：
+- 侵入性意象（individual 創傷畫面反覆出現）
+- 過度警覺（睡眠困難、易驚嚇）
+- 迴避行為（不想接案、社交退縮）
+- 世界觀崩塌（「世界很危險」內化）
+
+**高風險族群**：心理師、社工、護理師、警消、媒體記者、保育員
+
+**保護因子**：規律督導、案量管理、自我照顧、同儕支持
+
+**暖流引用**：
+- [替代性創傷：一直看壞新聞，你的心理正在付出代價](https://warmflowpsy.tw/category/trauma-ptsd/)
+- 「兒童替代性創傷」（孩子目睹災難新聞）
+- 「機構照顧者耗竭」（特殊議題系列）
+
+⚠️ **YMYL 重要提醒**：助人工作者若出現持續性替代性創傷症狀，請尋求專業督導或合格臨床心理師評估，必要時調整工作型態。
+
+---
+
+### 情緒勞動 Emotional Labor
+
+**定義**：工作場域中需要管理、調節、展演特定情緒以符合角色期待的勞動形式。
+
+**英文同義**：emotional labor, affective labor
+
+**理論源頭**：Arlie Hochschild（1983）《受管理的心：人類情感的商業化》/ 後續服務業心理學研究
+
+**兩種類型**：
+- **表層展演**（surface acting）：偽裝不符的情緒（如服務業微笑），耗竭風險高
+- **深層展演**（deep acting）：真正調動內在情緒（如護理師對病患的真誠關懷），相對較不耗竭
+
+**性別與職業分佈**：服務業、護理、教育、客服、空服員等女性主導職業承擔更多情緒勞動。
+
+**暖流引用**：
+- [你以為是工作量太多，其實是情感勞動把你掏空了](https://warmflowpsy.tw/category/workplace/)
+- 職場與壓力情感勞動系列
+
+---
+
+### 焦慮光譜 Anxiety Spectrum
+
+**定義**：從一般焦慮反應到臨床焦慮疾患的連續譜系，含多種表現型與診斷類別。
+
+**英文同義**：anxiety spectrum, anxiety disorders
+
+**DSM-5 焦慮疾患分類**：
+- **廣泛性焦慮症**（GAD）：對多項生活面向持續過度擔憂
+- **恐慌症**（Panic Disorder）：反覆突發強烈恐慌發作
+- **社交焦慮症**（Social Anxiety Disorder）：對社交評價的強烈恐懼
+- **特定恐懼症**（Specific Phobia）：對特定物體或情境的過度恐懼
+- **分離焦慮症**（Separation Anxiety Disorder）：成人也會發生
+- **選擇性緘默症**（Selective Mutism）：特定情境無法說話
+
+**鄰近類別**（DSM-5 分開歸類）：強迫症（OCD）/ PTSD / 創傷後相關疾患
+
+**暖流引用**：
+- [.tw 焦慮與恐慌完整指南](https://warmflowpsy.tw/category/anxiety-panic/)
+- 「焦慮症完全指南」
+- 各亞型懶人包系列（GAD / 恐慌 / 社交焦慮 / 恐懼症 / 選擇性緘默）
+
+⚠️ **YMYL 重要提醒**：焦慮疾患為臨床診斷類別。若焦慮持續超過 6 個月並嚴重妨礙生活功能，請尋求合格臨床心理師或精神科醫師專業評估。本詞條僅供概念認識，不取代專業診斷與治療。
+
+---
+
 ## 引用規範
 
 依 CC BY-NC-ND 4.0 授權：
@@ -503,6 +669,22 @@ Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social compariso
 
 Weiss, R. S. (1973). *Loneliness: The experience of emotional and social isolation*. MIT Press.
 
+Aron, E. N. (1996). *The highly sensitive person: How to thrive when the world overwhelms you*. Broadway Books.
+
+Figley, C. R. (1995). *Compassion fatigue: Coping with secondary traumatic stress disorder in those who treat the traumatized*. Brunner/Mazel.
+
+Freud, A. (1936). *The ego and the mechanisms of defense*. International Universities Press.
+
+Gilbert, P. (2009). *The compassionate mind: A new approach to life's challenges*. Constable.
+
+Hochschild, A. R. (1983). *The managed heart: Commercialization of human feeling*. University of California Press.
+
+McCann, I. L., & Pearlman, L. A. (1990). Vicarious traumatization: A framework for understanding the psychological effects of working with victims. *Journal of Traumatic Stress*, 3(1), 131-149. https://doi.org/10.1007/BF00975140
+
+Pizzagalli, D. A. (2014). Depression, stress, and anhedonia: Toward a synthesis and integrated model. *Annual Review of Clinical Psychology*, 10, 393-423. https://doi.org/10.1146/annurev-clinpsy-050212-185606
+
+Vaillant, G. E. (1977). *Adaptation to life*. Little, Brown.
+
 ---
 
-**Echo 內容部 5/15 11:05** — v0.9.3 卷 1 第二波擴展 15 → 23 詞彙 / 新增 8 詞（憤怒 / 悲傷 / 恐懼 / 嫉妒羨慕 / 孤獨 / 倦怠 / 創傷反應 / 解離）/ APA 7 reference 23 條 / YMYL 提醒 8 處（焦慮 / PTSD / 抑鬱 / 羞愧 / 哀傷 / 孤獨 / 創傷反應 / 解離 — 臨床診斷類）
+**Echo 內容部 5/15 11:30** — v0.9.4 卷 1 完整版 30 詞彙 / 新增第三波 7 詞（麻木 / 高敏感 / 自我同情 / 防衛機制 / 替代性創傷 / 情緒勞動 / 焦慮光譜）/ APA 7 reference 32 條 / YMYL 提醒 11 處（含麻木 / 替代性創傷 / 焦慮光譜新增 3 處） / 比 5/17 排程提前 2 天完工 / 卷 1 進入 Atlas 副技 Schema markup 協同階段
