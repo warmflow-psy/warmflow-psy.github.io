@@ -688,3 +688,204 @@ Vaillant, G. E. (1977). *Adaptation to life*. Little, Brown.
 ---
 
 **Echo 內容部 5/15 11:30** — v0.9.4 卷 1 完整版 30 詞彙 / 新增第三波 7 詞（麻木 / 高敏感 / 自我同情 / 防衛機制 / 替代性創傷 / 情緒勞動 / 焦慮光譜）/ APA 7 reference 32 條 / YMYL 提醒 11 處（含麻木 / 替代性創傷 / 焦慮光譜新增 3 處） / 比 5/17 排程提前 2 天完工 / 卷 1 進入 Atlas 副技 Schema markup 協同階段
+
+
+<!-- Atlas SEO 副技 5/15: DefinedTermSet JSON-LD（schema.org 結構化資料，Google + AI 搜尋友善）-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 1 卷 情緒概念",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "焦慮 Anxiety",
+      "description": "對未來不確定威脅的預期性情緒反應，伴隨身體警覺與認知擔憂。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "依附 Attachment",
+      "description": "嬰幼兒與主要照顧者形成的情感連結，影響一生親密關係模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "移情 Transference",
+      "description": "個案在諮商關係中無意識地將早年重要他人的情感模式轉移到心理師身上。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷後壓力 PTSD",
+      "description": "經歷或目擊創傷事件後產生持續性的心理壓力反應，含閃回、迴避、警醒過度等。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心理韌性 Resilience",
+      "description": "個體面對逆境、創傷或重大壓力時，能適應並恢復的心理能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "抑鬱 Depression",
+      "description": "以情緒低落、興趣減退、活力降低為核心的情緒狀態，可從一般情緒反應延伸至臨床診斷類別。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自尊 Self-Esteem",
+      "description": "個體對自我價值的整體評價與感受，包含「我足夠好」「我值得被愛」的內在認定。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自我覺察 Self-Awareness",
+      "description": "對自己內在狀態（情緒、念頭、身體感受、需求）的注意與識別能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "同理心 Empathy",
+      "description": "理解並感同他人情緒與處境的能力，分認知（理解）與情感（共感）兩層次。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "羞愧 Shame",
+      "description": "對「整個自我」感到不夠好、有缺陷的痛苦情緒，與「對行為感到內疚」不同。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "內疚 Guilt",
+      "description": "對自己行為造成他人傷害或違背價值觀的後悔情緒，焦點在「行為」非「自我」。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒調節 Emotion Regulation",
+      "description": "覺察、命名、影響情緒強度與表達方式的歷程，是心理彈性的核心能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒粒度 Emotional Granularity",
+      "description": "個體區辨與命名不同情緒細節的能力，粒度越細越能精準應對。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "哀傷 Grief",
+      "description": "對重要失去（人、關係、健康、角色）的自然情緒反應，非病理而是適應歷程。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "失落 Loss",
+      "description": "失去重要事物或關係的經驗總稱，比哀傷範疇更廣，包含可見與隱形失落。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "憤怒 Anger",
+      "description": "對被冒犯、阻礙或不公正情境的強烈情緒反應，含生理喚起與行為衝動。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "悲傷 Sadness",
+      "description": "對失去、挫敗或無法挽回的情境產生的低能量情緒，傾向收回與內省。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "恐懼 Fear",
+      "description": "對立即性威脅的情緒反應，伴隨自律神經系統高度動員（戰 / 逃 / 凍結 / 討好）。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "嫉妒 Jealousy / 羨慕 Envy",
+      "description": "- 嫉妒（jealousy）：對失去既有所有物（關係、地位）的擔憂與抗拒，三方結構 - 羨慕（envy）：對他人擁有自己沒有之物的渴望與比較感，兩方結構",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "孤獨 Loneliness",
+      "description": "實際社交連結與渴望連結間的主觀落差感，與「獨處」（solitude）不同。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "倦怠 Burnout",
+      "description": "長期壓力下出現情感耗竭、去人格化、成就感降低的狀態，2019 年 WHO 列入 ICD-11 職業相關現象。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷反應 Trauma Response",
+      "description": "經歷創傷事件後身體與心理的自動化保護反應，包含戰 / 逃 / 凍結 / 討好四類型。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "解離 Dissociation",
+      "description": "意識、記憶、身分或感知正常整合的中斷，從輕微（白日夢、開車失神）到嚴重（解離症）光譜。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "麻木 Numbness / 情感麻木 Emotional Numbness",
+      "description": "情緒反應降低或缺席的狀態，常見於創傷後、長期壓力或解離防衛中。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "高敏感 High Sensitivity / HSP",
+      "description": "對外部刺激（聲光、氣味、情緒）與內部狀態（身體感受、人際細節）有更深處理的神經多樣性特質，非疾病。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自我同情 Self-Compassion",
+      "description": "以對待親密好友的善意態度對待自己，特別在失敗、不足或痛苦時刻。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "防衛機制 Defense Mechanism",
+      "description": "心智為了減輕焦慮、內疚或心理衝突而自動啟動的內在歷程，多數無意識運作。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "替代性創傷 Vicarious Trauma",
+      "description": "助人工作者長期接觸他人創傷故事後，自身出現類似 PTSD 症狀的累積性影響。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒勞動 Emotional Labor",
+      "description": "工作場域中需要管理、調節、展演特定情緒以符合角色期待的勞動形式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "焦慮光譜 Anxiety Spectrum",
+      "description": "從一般焦慮反應到臨床焦慮疾患的連續譜系，含多種表現型與診斷類別。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/01_emotions/#termset"
+    }
+  ]
+}
+</script>
