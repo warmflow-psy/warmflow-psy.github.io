@@ -37,6 +37,10 @@ social:
 markdown: kramdown
 highlighter: rouge
 
+# v0.9.2.1 (Atlas 5/15 10:18 修)：trailing slash 統一 — 解 Echo v0.9.2 詞彙表第二波 commit 446fe90 後 /01_emotions/ 404
+# 連動 Harbor 5/15 10:12 「是指這樣的狀態嗎？」截圖揭露
+permalink: pretty
+
 # === just-the-docs theme（書籍架構，連動 5/13 Harbor 拍板「電子閱讀」+ YMYL 戰略 🅓）===
 remote_theme: just-the-docs/just-the-docs
 
