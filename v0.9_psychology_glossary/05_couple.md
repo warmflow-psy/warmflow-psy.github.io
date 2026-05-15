@@ -532,3 +532,157 @@ Schnarch, D. (1997). *Passionate marriage: Keeping love and intimacy alive in co
 ---
 
 **Echo 內容部 5/15 12:10** — v0.9.8 卷 5 伴侶關係完整版 22 詞彙 / 從零起步同日完工 / APA 7 reference 10 條 / YMYL 提醒 5 處（EFT / 依附損傷 / 外遇創傷 / 性與親密 / 共親職）/ 卷 1-5 累計 124 詞彙
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 5 卷 伴侶關係",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "成人依附 Adult Attachment",
+      "description": "童年依附模式延伸至成人親密關係的內在運作模式，影響伴侶選擇與互動。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "追逃循環 Pursue-Withdraw Cycle",
+      "description": "一方追討親近、另一方退縮逃離，互相強化的負向伴侶互動模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒焦點伴侶治療 EFT (Couple)",
+      "description": "以依附理論為基礎，協助伴侶辨識負向循環、重建安全情感連結的實證伴侶治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Gottman 四騎士 Four Horsemen",
+      "description": "Gottman 研究發現預測離婚的四種破壞性溝通模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "修復嘗試 Repair Attempts",
+      "description": "衝突中任一方為降溫、重新連結所做的努力（幽默、道歉、轉身），是健康關係的關鍵指標。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情感帳戶 Emotional Bank Account",
+      "description": "伴侶間正向互動（存款）與負向互動（提款）的累積平衡，決定關係韌性。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情感請求 Bids for Connection",
+      "description": "伴侶日常發出的微小連結請求（一句話、一個眼神、一個分享），回應方式累積關係品質。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "依附損傷 Attachment Injury",
+      "description": "在關鍵時刻（如重病、危機）伴侶未能提供依附支持，造成的關係性背叛創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "外遇創傷 Infidelity Trauma",
+      "description": "發現伴侶外遇後，被背叛方出現類似 PTSD 的創傷反應。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "婚姻心死 Marital Disengagement",
+      "description": "長期情緒忽略累積後，一方對關係徹底退出期待與情感投入的狀態。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "貌合神離 Emotional Divorce",
+      "description": "法律上仍是夫妻、實質情感已分離，同住一屋簷下卻各自孤獨的狀態。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "灰色離婚 Gray Divorce",
+      "description": "50 歲以上中老年夫妻的離婚現象，全球趨勢上升，心理與經濟議題特殊。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "公平帳本 Fairness Ledger",
+      "description": "伴侶間心中默默記錄「誰付出多、誰虧欠誰」的計分系統，過度計分侵蝕關係。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "隱形契約 Invisible Contract",
+      "description": "伴侶未明說卻各自預設的關係期待與規則，落差時引發「你應該知道」的衝突。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒不可得 Emotional Unavailability",
+      "description": "伴侶在情感上無法回應、連結或親密，常源自迴避型依附或未處理創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "共依存 Codependency",
+      "description": "過度以伴侶（或他人）的需求與情緒為中心，犧牲自我界限與需求的關係模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "婆媳三角 In-Law Triangulation",
+      "description": "婆媳衝突中，丈夫/兒子被夾在原生家庭忠誠與配偶忠誠之間的三角關係張力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "性與親密 Sexual Intimacy",
+      "description": "伴侶間身體親密與情感連結的交織，性議題常是關係動力的鏡子而非獨立問題。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "關係修復 Relationship Repair",
+      "description": "關係受損後，透過理解、道歉、行為改變、重建信任的歷程，非「回到從前」而是「建立新關係」。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "離婚調適 Divorce Adjustment",
+      "description": "離婚後在情感、身分、社會角色、經濟、子女共親職等多面向重新適應的歷程。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "共親職 Co-Parenting",
+      "description": "分居或離婚的父母為子女福祉持續合作教養的安排，品質直接影響子女適應。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "關係界限 Relationship Boundaries",
+      "description": "伴侶間關於個人空間、情感、時間、價值的清楚界線，健康界限是親密的基礎而非阻礙。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/05_couple/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}

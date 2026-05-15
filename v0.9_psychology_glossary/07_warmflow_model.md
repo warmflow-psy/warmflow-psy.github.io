@@ -306,3 +306,115 @@ Siegel, D. J. (1999). *The developing mind*. Guilford Press.
 ---
 
 **Echo 內容部 5/15 12:40** — v0.9.10 卷 7 暖流模型公開概念層 15 詞彙 / 從零起步同日完工 / 開源範圍聲明置頂（僅公開層，內部方法論不公開，最終以 Harbor 確認為準）/ APA 7 reference 8 條 / 卷 1-7 全 7 卷累計 161 詞彙 / v0.9 詞彙表 7 卷結構完整
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 7 卷 暖流心理專業模型",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "心力儀 CareRadar",
+      "description": "暖流人心開發的免費每日心理自評工具，協助使用者建立個人心理基線，在崩潰前覺察變化。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "3A 工具 Awareness-Acceptance-Action",
+      "description": "暖流臨床整合的情緒因應三步框架 — 覺察（Awareness）、接納（Acceptance）、行動（Action）。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "飛輪機制 Flywheel Model",
+      "description": "暖流知識生產的持續滾動機制 — 臨床觀察 → 心理專業模型 → 文章 → 回饋 → 模型深化的正向循環。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "小窗口原則 Small Window Principle",
+      "description": "暖流臨床觀點 — 創傷與失落處理不需把每個細節說出來，而是在安全可承受的「小窗口」內逐步整合。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "連結先於矯正 Connection Before Correction",
+      "description": "暖流教養與助人整合核心 — 在引導行為改變前，先建立安全的關係連結。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "安全感優先 Safety First Parenting",
+      "description": "暖流創傷知情教養核心 — 在孩子感受到安全之前，規矩建立效果有限，先建立可預測穩定的環境。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "溫柔持續耐心 Gentle-Continuous-Patient",
+      "description": "暖流產品與服務哲學 — 不逼、不催、不嘗試操弄，以溫柔、持續、耐心作為底氣。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "去識別化原則 De-Identification Principle",
+      "description": "暖流內容生產倫理實踐 — 任何臨床素材轉為公開內容前，須完全去除可辨識個案的資訊。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "滾動更新 Rolling Update",
+      "description": "暖流知識管理哲學 — 知識內容持續迭代更新，而非一次定稿，反映臨床實務的演進。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "暖流服務模型 Service Flow Model",
+      "description": "暖流人心心理服務的歷程框架 — 初次諮詢 → 評估 → 介入 → 結案的完整循環。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "結案準備 Termination Preparation",
+      "description": "暖流臨床整合 — 結案不是停止見面，而是需要刻意準備的告別儀式，對個案與心理師都是完整收尾。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "EAP 整合服務 Integrated EAP Model",
+      "description": "暖流企業心理服務模型 — 個人諮商、危機介入、主管諮詢、組織健康促進的整合方案。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI 與心理整合 AI-Psychology Integration",
+      "description": "暖流跨界定位 — 將實證心理學與 AI 工具結合，提升心理衛生教育的可及性與即時性，但守住專業與倫理界限。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心理衛生教育定位 Mental Health Literacy Mission",
+      "description": "暖流內容核心使命 — 將實證心理學以平易近人的方式傳達給一般大眾，提升全民心理衛生素養。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "預防勝於治療 Prevention-Oriented Care",
+      "description": "暖流取向核心 — 重視在問題惡化前的覺察與早期介入，而非僅在危機時處理。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/07_warmflow_model/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}

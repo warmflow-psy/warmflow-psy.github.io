@@ -514,3 +514,157 @@ Schlossberg, N. K. (1981). A model for analyzing human adaptation to transition.
 ---
 
 **Echo 內容部 5/15 12:25** — v0.9.9 卷 6 職場/EAP 完整版 22 詞彙 / 從零起步同日完工 / 比 5/25-5/27 排程提前 10-12 天 / APA 7 reference 12 條 / YMYL 提醒 4 處（職業倦怠 / 職場替代性創傷 / 心理健康假 + 整體）/ 卷 1-6 累計 146 詞彙
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 6 卷 職場/EAP",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "職業倦怠 Burnout",
+      "description": "長期工作壓力導致情感耗竭、去人格化、成就感降低的狀態，WHO ICD-11 列為職業相關現象。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "工作要求-資源模型 JD-R Model",
+      "description": "解釋工作壓力與投入的理論 — 工作要求消耗能量、工作資源促進投入，兩者平衡決定身心結果。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情感耗竭 Emotional Exhaustion",
+      "description": "倦怠的核心成分 — 情緒資源被掏空，感覺「再也擠不出東西給工作」。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "去人格化 Depersonalization (Burnout)",
+      "description": "倦怠者對服務對象產生冷漠、疏離、物化的態度，作為情感耗竭的防衛。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心理安全感 Psychological Safety",
+      "description": "團隊成員相信可以冒人際風險（提問、犯錯、表達不同意見）而不會被羞辱或懲罰的共享信念。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "角色衝突 Role Conflict",
+      "description": "個體面對工作中相互矛盾的期待或要求，無法同時滿足的壓力狀態。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "角色模糊 Role Ambiguity",
+      "description": "個體對工作職責、期待、評量標準不清楚所產生的不確定壓力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "有責無權 Responsibility without Authority",
+      "description": "承擔工作責任卻缺乏對應決策授權的處境，是職場壓力與無力感的高風險來源。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "冒牌者症候群 Imposter Syndrome (Workplace)",
+      "description": "儘管有客觀成就，仍持續懷疑自己能力、害怕被識破「其實不夠格」的心理模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "工作狂 Workaholism",
+      "description": "強迫性、無法控制地過度工作，與內在焦慮與自我價值綁定，非單純「努力」。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒勞動 Emotional Labor (Workplace)",
+      "description": "工作要求管理與展演特定情緒以符合角色期待的勞動形式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "員工協助方案 EAP",
+      "description": "企業提供員工及其家屬的心理諮商、法律財務諮詢、危機處理等綜合支持服務。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "組織變革焦慮 Change Anxiety",
+      "description": "組織重組、併購、政策轉向時，員工面對不確定性產生的焦慮反應。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心理契約 Psychological Contract",
+      "description": "員工與組織間未明文卻彼此預設的互惠期待（付出 vs 回報、忠誠 vs 保障）。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "工作家庭衝突 Work-Family Conflict",
+      "description": "工作與家庭角色要求相互干擾，無法兼顧的角色間衝突。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心流 Flow",
+      "description": "個體完全投入活動、技能與挑戰平衡、忘我且高效的最佳體驗狀態。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "職涯轉換 Career Transition",
+      "description": "個體在職業生涯中經歷的角色、組織或方向重大改變的歷程與心理調適。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "主管角色焦慮 Leadership Role Anxiety",
+      "description": "從執行者晉升為管理者時，面對新角色要求、能力詛咒與身分轉換的焦慮。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "職場完美主義 Workplace Perfectionism",
+      "description": "在工作中設定不切實際高標準、過度自我批判，與倦怠、拖延、決策困難相關。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "復原力職場版 Workplace Resilience",
+      "description": "個體與組織面對工作逆境、變革、壓力時適應與恢復的能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "職場替代性創傷 Workplace Vicarious Trauma",
+      "description": "助人或高暴露職業（心理師、社工、護理、消防、記者）因工作接觸他人創傷而累積的職業心理傷害。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "職場心理健康假 Mental Health Leave",
+      "description": "員工因心理健康需求請假休養的安排，反映組織對心理健康的制度性支持程度。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/06_workplace_eap/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}

@@ -663,3 +663,175 @@ Wolin, S. J., & Bennett, L. A. (1984). Family rituals. *Family Process*, 23(3), 
 ---
 
 **Echo 內容部 5/15 13:00** — v0.9.6 卷 3 兒少/家庭完整版 25 詞彙 / 從零起步同日完工 / 比 5/22-5/24 排程提前 7-9 天 / APA 7 reference 21 條 / YMYL 提醒 6 處（不安全依附 / 父母情緒失控 / 代間傳遞 / 兒童 EF / 收養 / 寄養）/ 卷 1+2+3 累計 80 詞彙
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 3 卷 兒少/家庭主題",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "兒童發展階段 Child Development Stages",
+      "description": "兒童從嬰兒期到青少年期身體、認知、情緒、社會四面向有序成熟的歷程。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "親子依附 Parent-Child Attachment",
+      "description": "嬰幼兒與主要照顧者間發展出的情感連結模式，影響一生親密關係。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "共同調節 Co-Regulation",
+      "description": "照顧者透過自身穩定的神經狀態，協助嬰幼兒調節情緒與生理喚起的歷程。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心智化 Mentalization",
+      "description": "理解自己與他人行為背後心理狀態（想法、感受、意圖）的能力，是依附安全感的核心。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "心智理論 Theory of Mind",
+      "description": "兒童發展出理解「他人擁有與自己不同的信念、想法」的能力，4 歲左右出現。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "共同注意 Joint Attention",
+      "description": "兒童與他人共同關注同一對象，並理解雙方共享此關注的能力，9-15 個月出現。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "安全型依附 Secure Attachment",
+      "description": "嬰幼兒在照顧者離開時短暫不安、回來時被安撫，並能自在探索環境的依附模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "不安全依附 Insecure Attachment",
+      "description": "依附模式中焦慮型、迴避型、紊亂型的統稱，源自照顧不一致或創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "權威型親職 Authoritative Parenting",
+      "description": "高溫暖 + 高要求兼具的親職風格，與兒童最佳發展結果相關。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷知情教養 Trauma-Informed Parenting",
+      "description": "理解創傷如何影響兒童行為與發展，以安全感建立為核心的教養取向，多應用於收養與寄養家庭。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自主性支持教養 Autonomy-Supportive Parenting",
+      "description": "尊重孩子內在動機、提供選擇空間、解釋理由的教養取向，與最佳學習成果相關。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "教養效能感 Parenting Self-Efficacy",
+      "description": "父母對自己能勝任親職任務的信念，影響教養行為品質與一致性。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "教養不一致 Parenting Inconsistency",
+      "description": "父母對同一行為時而允許時而禁止，或夫妻教養方式分歧的狀態，與兒童行為問題相關。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "黑臉白臉教養 Good Cop Bad Cop Parenting",
+      "description": "夫妻刻意分工為「嚴格者 vs 寬鬆者」的教養策略，看似互補實則造成孩子混亂。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "父母情緒失控 Parental Emotional Dysregulation",
+      "description": "父母在教養情境中無法調節自身情緒，出現吼叫、語言暴力、肢體攻擊等失控行為。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "教養挫折 Parenting Frustration",
+      "description": "父母在教養過程中累積的挫敗、自責、無力感，是長期親職的常態經驗。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "三角關係 Triangulation",
+      "description": "兩人關係張力升高時，引入第三者來分散焦慮的家庭系統機制。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自我分化 Self-Differentiation",
+      "description": "個體在情緒與理智間保持平衡，並在親密關係中維持自我與連結的能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "代間傳遞 Intergenerational Transmission",
+      "description": "家庭模式（情感、衝突、創傷、依附）透過上一代傳給下一代的歷程。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "家庭儀式 Family Rituals",
+      "description": "家庭定期重複的有意義活動（如晚餐、節日、睡前），是家庭認同與安全感的重要載體。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "家庭韌性 Family Resilience",
+      "description": "家庭面對逆境（失業、疾病、失落、創傷）時，能適應、重組、成長的能力。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "兒童執行功能 Executive Function (Child)",
+      "description": "兒童計畫、組織、抑制衝動、轉換注意力、工作記憶等高階認知能力的統稱。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "兒童情緒社交能力 Social-Emotional Learning (SEL)",
+      "description": "兒童辨識、表達、調節情緒，以及建立健康關係的能力總稱，21 世紀核心素養。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "收養 Adoption",
+      "description": "法律與心理層面建立非生物親子關係的歷程，涉及複雜的失落、整合、認同議題。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "寄養 Foster Care",
+      "description": "兒少因原生家庭照顧不能或不適當，由政府安置至寄養家庭暫時照顧的制度。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/03_youth_family/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}

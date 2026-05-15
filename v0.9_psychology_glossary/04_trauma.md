@@ -546,3 +546,151 @@ Yehuda, R., & Lehrner, A. (2018). Intergenerational transmission of trauma effec
 ---
 
 **Echo 內容部 5/15 11:50** — v0.9.7 卷 4 創傷完整版 22 詞彙 / Harbor 5/15 拍 7 卷結構 / 從零起步同日完工 / APA 7 reference 14 條 / YMYL 提醒 14 處（卷整體聲明 + 個別 13）/ 卷 1-4 累計 102 詞彙
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 4 卷 創傷",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷 Trauma",
+      "description": "個體經歷超出心理承受能力的威脅性事件後，神經系統與心理功能受到的深刻影響。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷後壓力症 PTSD",
+      "description": "經歷或目擊創傷事件後，出現侵入、迴避、認知情緒負向改變、警醒過度四大症狀群並持續 1 個月以上的臨床診斷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "複雜性創傷 Complex PTSD",
+      "description": "長期反覆人際創傷（如童年虐待、家暴、囚禁）後，除 PTSD 症狀外另含情緒調節困難、負向自我概念、人際困擾的診斷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "發展性創傷 Developmental Trauma",
+      "description": "兒童早期（依附形成關鍵期）反覆暴露於創傷，影響神經發展、依附與自我調節的累積性傷害。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "童年逆境 ACEs",
+      "description": "18 歲前經歷的虐待、忽視、家庭功能失調等負向經驗，累積劑量與成人身心健康呈劑量反應關係。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "閃回 Flashback",
+      "description": "創傷記憶以強烈感官重現的方式侵入當下，個體彷彿「重新經歷」而非「回憶」創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "過度警覺 Hypervigilance",
+      "description": "創傷後神經系統持續處於高度戒備狀態，對潛在威脅過度掃描與反應。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷記憶 Traumatic Memory",
+      "description": "創傷經驗以片段、感官化、非語言化的方式儲存，與一般敘事記憶的整合方式不同。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "容納之窗 Window of Tolerance",
+      "description": "個體能有效處理情緒與壓力而不失調的最佳自律神經喚起區間。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "戰逃凍結討好 Fight-Flight-Freeze-Fawn",
+      "description": "面對威脅時自律神經系統的四種自動防衛反應，無意識且非選擇。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "二次創傷 Secondary Trauma",
+      "description": "透過接觸他人創傷故事（非親身經歷）而出現類似創傷症狀，常見於助人工作者與家屬。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷後成長 Post-Traumatic Growth",
+      "description": "個體在與創傷掙扎後，於某些生命面向達到超越創傷前的正向心理改變。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "道德傷害 Moral Injury",
+      "description": "違背自身道德信念的行為（被迫做、目睹、或未能阻止）所造成的深層心理創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷知情照護 Trauma-Informed Care",
+      "description": "在所有服務環節中認識創傷普遍性、避免再創傷、強調安全與賦能的系統性照護取向。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "小窗口原則 Small Window Principle（暖流概念）",
+      "description": "暖流人心臨床觀點 — 創傷處理不需要把每個細節說出來，而是在安全可承受的「小窗口」內逐步整合。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "創傷重演 Reenactment",
+      "description": "個體無意識地重複創傷情境或關係動力，可能是試圖掌控或未整合的創傷表現。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "身體經驗創傷 Somatic Trauma",
+      "description": "創傷儲存於身體（肌肉緊繃、慢性疼痛、消化問題），需透過身體途徑而非僅談話來處理。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "集體創傷 Collective Trauma",
+      "description": "影響整個群體、社區或社會的創傷事件（戰爭、災難、疫情、系統性壓迫），具共享性與文化傳遞性。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "世代創傷 Intergenerational Trauma",
+      "description": "創傷影響透過教養、依附、表觀遺傳等途徑由上一代傳給下一代。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "醫療創傷 Medical Trauma",
+      "description": "因疾病、醫療程序、住院或醫療互動經驗所造成的心理創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "失依創傷 Attachment Trauma",
+      "description": "早年依附關係本身成為創傷來源（照顧者是恐懼源），形成最深層的關係性創傷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/04_trauma/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}

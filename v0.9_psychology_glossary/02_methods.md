@@ -634,3 +634,175 @@ Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema therapy: A practi
 ---
 
 **Echo 內容部 5/15 12:30** — v0.9.5 卷 2 完整版 25 詞彙 / 從零起步同日完工 / 比 5/18-5/21 排程提前 3-6 天 / APA 7 reference 20 條 / YMYL 提醒 12 處（諮商方法皆涉臨床範疇）/ 卷 1 + 卷 2 累計 55 詞彙 / 進入 Atlas 副技 Schema markup 協同階段
+
+
+{::nomarkdown}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset",
+  "name": "暖流人心心理諮商詞彙表 — 第 2 卷 諮商方法",
+  "url": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "暖流人心 Warmflow Psychology Center",
+    "url": "https://warmflowpsy.tw"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "inLanguage": "zh-TW",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "認知行為治療 CBT",
+      "description": "透過辨識並修正不適應的認知模式與行為，改善情緒困擾的結構化心理治療取向。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "動力取向心理治療 Psychodynamic Therapy",
+      "description": "探索潛意識歷程、早年經驗、防衛機制與移情關係對當前困擾影響的治療取向。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "個人中心治療 Person-Centered Therapy",
+      "description": "強調心理師提供同理、無條件正向關懷、真誠一致三條件，協助案主自我實現的人本取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "家族治療 Family Therapy",
+      "description": "將個案問題視為家庭系統互動的產物，邀請家庭成員共同參與的系統取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "遊戲治療 Play Therapy",
+      "description": "以遊戲為媒介，協助兒童表達情緒、處理創傷、發展因應能力的兒童心理治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "敘事治療 Narrative Therapy",
+      "description": "協助案主重新詮釋與書寫自己生命故事，挑戰被壓迫的主流敘事，找回主體性的後現代取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "接納與承諾治療 ACT",
+      "description": "第三波認知行為治療，強調心理彈性、接納痛苦情緒、價值導向行動的取向。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "辯證行為治療 DBT",
+      "description": "為邊緣性人格疾患設計，整合認知行為與東方接納禪修哲學的綜合治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "眼動減敏與歷程更新治療 EMDR",
+      "description": "透過雙側刺激（眼球運動 / 觸覺）協助大腦重新處理創傷記憶的八階段結構化治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "沙遊治療 Sandplay Therapy",
+      "description": "以沙箱與小物件為媒介，協助案主呈現潛意識內在世界的榮格取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "藝術治療 Art Therapy",
+      "description": "透過繪畫、雕塑、拼貼等視覺藝術創作為媒介的心理治療專業領域。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "正念認知治療 MBCT",
+      "description": "結合正念禪修與 CBT 的八週團體治療，原為預防憂鬱症復發設計。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "情緒焦點治療 EFT",
+      "description": "以情緒為改變核心，透過深化、轉化、調節情緒達成療癒的人本實證治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "完形治療 Gestalt Therapy",
+      "description": "強調當下覺察、未竟事務（unfinished business）整合的人本實驗性治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "客體關係取向 Object Relations",
+      "description": "精神分析取向之一，強調早年關係內化形成的「內在客體」如何影響當下關係模式。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "基模治療 Schema Therapy",
+      "description": "整合 CBT、依附理論、客體關係的綜合治療，處理深層人格議題與童年早期適應不良基模。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "內在家族系統 IFS",
+      "description": "將心智視為由多個「部分」組成，透過接觸自我（Self）整合各部分的取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "動機式晤談 MI",
+      "description": "協助案主探索與化解對改變的矛盾心理（ambivalence），增強內在改變動機的個案中心方法。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "解決導向短期治療 SFBT",
+      "description": "聚焦案主既有資源與例外經驗，建構可行解決方案的短期取向治療。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "暴露療法 Exposure Therapy",
+      "description": "透過系統性接觸引發焦慮的刺激，降低條件化恐懼反應的行為治療技術。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "認知重評 Cognitive Reappraisal",
+      "description": "透過重新詮釋情境的意義來改變情緒反應的認知策略，是情緒調節核心技術之一。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自由聯想 Free Association",
+      "description": "精神分析基本技術，請案主自由說出腦中浮現的任何念頭，協助潛意識素材浮現。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "治療同盟 Therapeutic Alliance",
+      "description": "心理師與案主在目標、任務、情感連結三層面的合作關係品質，是治療效果最強預測因子。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "自我揭露 Self-Disclosure",
+      "description": "心理師有意識、有目的地在治療中分享自身經驗或感受的技術，需嚴格臨床判斷。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "反移情 Countertransference",
+      "description": "心理師對案主產生的情感反應，當代觀點認為是重要的治療素材而非僅是阻礙。",
+      "inDefinedTermSet": "https://warmflow-psy.github.io/v0.9_psychology_glossary/02_methods/#termset"
+    }
+  ]
+}
+</script>
+{:/nomarkdown}
