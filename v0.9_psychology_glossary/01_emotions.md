@@ -690,7 +690,7 @@ Vaillant, G. E. (1977). *Adaptation to life*. Little, Brown.
 **Echo 內容部 5/15 11:30** — v0.9.4 卷 1 完整版 30 詞彙 / 新增第三波 7 詞（麻木 / 高敏感 / 自我同情 / 防衛機制 / 替代性創傷 / 情緒勞動 / 焦慮光譜）/ APA 7 reference 32 條 / YMYL 提醒 11 處（含麻木 / 替代性創傷 / 焦慮光譜新增 3 處） / 比 5/17 排程提前 2 天完工 / 卷 1 進入 Atlas 副技 Schema markup 協同階段
 
 
-<!-- Atlas SEO 副技 5/15: DefinedTermSet JSON-LD（schema.org 結構化資料，Google + AI 搜尋友善）-->
+{::nomarkdown}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -889,3 +889,4 @@ Vaillant, G. E. (1977). *Adaptation to life*. Little, Brown.
   ]
 }
 </script>
+{:/nomarkdown}
