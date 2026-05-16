@@ -20,9 +20,11 @@ has_children: true
 | 4 | [創傷](/v0.9_psychology_glossary/04_trauma/) | 22 | 🟢 5/15 完整版 |
 | 5 | [伴侶關係](/v0.9_psychology_glossary/05_couple/) | 22 | 🟢 5/15 完整版 |
 | 6 | [職場/EAP](/v0.9_psychology_glossary/06_workplace_eap/) | 22 | 🟢 5/15 完整版 |
-| 7 | [暖流心理專業模型](/v0.9_psychology_glossary/07_warmflow_model/) | 15（公開概念層） | 🟢 5/15 完整版 |
+| 7 | [暖流心理專業模型](/v0.9_psychology_glossary/07_warmflow_model/) | 3 核心臨床概念 + 取向總述（純模型公開概念層）| 🟢 5/16 純模型版 |
 
-**累計 161 詞彙 / 7 卷全完工**
+**累計 卷 1-6 共 146 詞彙 + 卷 7 純模型公開概念層 / 7 卷完工**
+
+> 卷 7 於 5/16 依 Harbor「並非模型內的要刪除」精簡為純心理專業模型內容（移除 12 個暖流公司產品/服務/營運哲學詞條），只保留模型本身的公開概念層。
 
 ## 📖 編纂紀律
 
